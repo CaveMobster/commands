@@ -2,16 +2,18 @@ body {
   background-color: #161616;
   color: #FFF;
   font-family: Verdana, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 13px;
+  line-height: 15pt;
 }
 
 .container {
-  width: 50%;
+  width: 30%;
   margin: 100px auto 0 auto;
 }
 
 h1 {
   color: #da4302;
+  margin-bottom: 30px;
 }
 
 dt {
@@ -29,6 +31,7 @@ dt {
 
 dd {
   margin-bottom: 20px;
+  font-size: 12px;
 }
 
 .points {
