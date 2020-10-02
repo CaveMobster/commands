@@ -1,8 +1,36 @@
 body {
-  background-color: #3e3e3e;
+  background-color: #161616;
+  color: #FFF;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 12px;
+}
+
+.container {
+  width: 50%;
+  margin: 100px auto 0 auto;
 }
 
 h1 {
-  font-family: Verdana, Arial, sans-serif;
   color: #da4302;
+}
+
+dt {
+  font-weight: 700;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.argument {
+  font-weight: 300;
+  font-style: italic;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+dd {
+  margin-bottom: 20px;
+}
+
+.points {
+  font-style: italic;
 }
